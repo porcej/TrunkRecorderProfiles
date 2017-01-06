@@ -1,0 +1,188 @@
+1001,3E9,D,FCPD HQ Disp,Headquarters Dispatch ,Law Dispatch,Police,2
+1002,3EA,D,FCPD MotrOp1,Motorcycle Ops 1,Law Tac,Police,3
+1003,3EB,D,FCPD HQ Ops1,Headquarters Ops 1,Law Tac,Police,3
+1004,3EC,D,FCPD MotrOp2,Motorcycle Ops 2,Law Tac,Police,3
+1006,3EE,D,FCPD MotrOp3,Motorcycle Ops 3,Law Tac,Police,3
+1015,3F7,D,FCPD PMARS,PMARS,Interop,Police,3
+1017,3F9,D,FCPD SIRS,SIRS,Interop,Police,3
+1022,3FE,D,Ffx OEM 1,Emergency Management 1,Emergency Ops,Emergency Management,3
+1024,400,D,Ffx OEM 2,Emergency Management 2,Emergency Ops,Emergency Management,3
+1027,403,D,FCPD Academy,Academy,Law Talk,Police,4
+1029,405,D,FCPD Range,Academy  Range,Law Talk,Police,4
+1031,407,D,FCPD Track 6,Academy  Track 6,Law Talk,Police,4
+1041,411,D,VSP Fairfax1,Virginia State Police Fairfax 1 Patch,Law Dispatch,Other,2
+1043,413,D,FCPD Trng 1,Academy  Training 1,Law Talk,Police,3
+1044,414,D,FCFD FMTA 1,FMTA 1,Fire-Tac,Fire,3
+1045,415,E,FCPD Trng 2,Academy  Training 2,Law Talk,Police,4
+1046,416,D,FCFD FMTA 2,FMTA 2,Fire-Tac,Fire,2
+1047,417,D,FCPD Trng 3,Academy  Training 3,Law Talk,Police,4
+1048,418,D,FCFD FMTA 3,FMTA 3,Fire-Tac,Fire,2
+1049,419,D,VSP Fairfax2,Virginia State Police Fairfax 2 Patch ,Law Dispatch,Other,2
+1053,41D,D,FCPD MV Disp,2 Mount Vernon Dispatch ,Law Dispatch,Police,3
+1055,41F,E,FCPD MV Ops1,Mount Vernon Ops 1,Law Tac,Police,3
+1057,421,E,FCPD MV Ops2,Mount Vernon Ops 2,Law Tac,Police,3
+1059,423,D,FCPD FR Disp,6 Franconia Dispatch,Law Dispatch,Police,3
+1061,425,E,FCPD FR Ops1,Franconia Ops 1,Law Tac,Police,3
+1063,427,E,FCPD FR Ops2,Franconia Ops 2,Law Tac,Police,3
+1065,429,D,FCPD WS Disp,7 West Springfield Dispatch ,Law Dispatch,Police,3
+1067,42B,E,FCPD WS Ops1,West Springfield Ops 1,Law Tac,Police,3
+1069,42D,E,FCPD WS Ops2,West Springfield Ops 2,Law Tac,Police,3
+1071,42F,D,FCPD MS Disp,4 Mason Dispatch,Law Dispatch,Police,3
+1073,431,E,FCPD MS Ops1,Mason Ops 1,Law Tac,Police,3
+1075,433,E,FCPD MS Ops2,Mason Ops 2,Law Tac,Police,3
+1077,435,D,FCPD MC Disp,3 McLean Dispatch,Law Dispatch,Police,3
+1079,437,E,FCPD MC Ops1,McLean Ops 1,Law Tac,Police,3
+1081,439,E,FCPD MC Ops2,McLean Ops 2,Law Tac,Police,3
+1083,43B,D,FCPD RE Disp,5 Reston Dispatch,Law Dispatch,Police,3
+1085,43D,E,FCPD RE Ops1,Reston Ops 1,Law Tac,Police,3
+1087,43F,E,FCPD RE Ops2,Reston Ops 2,Law Tac,Police,3
+1089,441,D,FCPD FO Disp,8 Fair Oaks Dispatch,Law Dispatch,Police,3
+1091,443,E,FCPD FO Ops1,Fair Oaks Ops 1,Law Tac,Police,3
+1093,445,E,FCPD FO Ops2,Fair Oaks Ops 2,Law Tac,Police,3
+1095,447,D,FCPD SU Disp,1 Sully Dispatch,Law Dispatch,Police,3
+1097,449,E,FCPD SU Ops1,Sully Ops 1,Law Tac,Police,3
+1099,44B,E,FCPD SU Ops2,Sully Ops 2,Law Tac,Police,3
+1103,44F,D,FCFD 4B Resp,4B Response,Fire-Tac,Fire,1
+1105,451,D,FCFD 4C Int1,4C Inter 1 response channel for interstate highway calls,Fire-Tac,Fire,1
+1107,453,D,FCFD 4D In10,4D Incident 10,Fire-Tac,Fire,1
+1109,455,D,FCFD 4E In11,4E Incident 11,Fire-Tac,Fire,1
+1111,457,D,FCFD 4F In12,4F Incident 12,Fire-Tac,Fire,1
+1113,459,D,FCFD 4G In13,4G Incident 13,Fire-Tac,Fire,1
+1115,45B,D,FCFD 4H In20,4H Incident 20,Fire-Tac,Fire,1
+1117,45D,D,FCFD 4I In21,4I Incident 21,Fire-Tac,Fire,1
+1119,45F,D,FCFD 4J In22,4J Incident 22,Fire-Tac,Fire,1
+1121,461,D,FCFD 4K In23,4K Incident 23,Fire-Tac,Fire,1
+1124,464,D,FCFD 45G,45G Systems 4,Fire-Tac,Fire,1
+1125,465,D,FCFD 49B,49B Fairfax Hospital,Hospital,Fire,1
+1126,466,D,FCFD Aircare,Aircare,Fire-Tac,Fire,1
+1127,467,D,FCFD 45I,45I Event,Fire-Tac,Fire,2
+1128,468,D,FCFD MEDCOM,MEDCOM,Hospital,Fire,2
+1129,469,D,FCFD 49K,49K DeWitt Army Community Hospital,Hospital,Fire,2
+1130,46A,D,FCFD MEDCOM2,MEDCOM 2 ,Hospital,Fire,2
+1131,46B,D,FCFD 49A,49A Regional Hospital Coordinating Center,Hospital,Fire,4
+1133,46D,D,FCFD 41B,41B Response 2,Fire-Tac,Fire,4
+1145,479,D,FCFD 41H,41H Incident 40,Fire-Tac,Fire,4
+1147,47B,D,FCFD 41I,41I Incident 41,Fire-Tac,Fire,4
+1149,47D,D,FCFD 41J,41J Incident 42,Fire-Tac,Fire,4
+1151,47F,D,FCFD 41K,41K Incident 43,Fire-Tac,Fire,4
+1153,481,D,FCFD 42C,42C Incident 50,Fire-Tac,Fire,4
+1157,485,D,FCFD 45C,45C Systems Headquarters,Fire-Tac,Fire,4
+1159,487,D,FCFD 45D,45D Systems 1,Fire-Tac,Fire,4
+1161,489,D,FCFD 45E,45E Systems 2,Fire-Tac,Fire,4
+1163,48B,D,FCFD 45F,45F Systems 3,Fire-Tac,Fire,4
+1165,48D,D,FCFD 42J,42J Technical Rescue Operations Team 1,Fire-Tac,Fire,4
+1167,48F,E,FCFD 42K,42K Technical Rescue Operations Team 2E,Fire-Tac,Fire,4
+1169,491,D,FCFD 43B,43B Incident 60,Fire-Tac,Fire,4
+1171,493,D,FCFD 43C,43C Incident 61,Fire-Tac,Fire,4
+1173,495,D,FCFD 43D,43D Incident 62,Fire-Tac,Fire,4
+1175,497,D,FCFD 43E,43E Incident 63,Fire-Tac,Fire,4
+1177,499,D,FCFD 43F,43F Incident 64,Fire-Tac,Fire,4
+1179,49B,D,FCFD 43G,43G Incident 65,Fire-Tac,Fire,4
+1181,49D,D,FCFD 42D,42D Incident 51,Fire-Tac,Fire,4
+1185,4A1,D,FCFD 45H,45H Inspectors,Fire-Tac,Fire,4
+1187,4A3,E,FCFD 1187Enc,Encrypted,Fire-Tac,Fire,4
+1193,4A9,D,FCFD 49C,49C Mount Vernon Hospital,Hospital,Fire,4
+1195,4AB,D,FCFD 49E,49E Reston Hospital,Hospital,Fire,4
+1197,4AD,D,FCFD 49F,49F Springfield Healthplex,Hospital,Fire,4
+1199,4AF,D,FCFD 49G,49G Access of Fairfax,Hospital,Fire,4
+1201,4B1,D,FCFD 49H,49H Access of Reston,Hospital,Fire,4
+1203,4B3,D,FCFD ChldHsp,Childrens Hospital,Hospital,Fire,4
+1205,4B5,D,FCFD 49D,49D Fair Oaks Hospital,Hospital,Fire,4
+1207,4B7,E,FCFD 46C,46C Training 1E,Fire-Tac,Fire,4
+1209,4B9,E,FCFD 46D,46D Training 2E,Fire-Tac,Fire,4
+1211,4BB,E,FCFD 46E,46E Training 3E,Fire-Tac,Fire,4
+1213,4BD,E,FCFD 46F,46F Training 4E,Fire-Tac,Fire,4
+1217,4C1,D,FCFD 42G,42G Hazmat 1,Fire-Tac,Fire,4
+1219,4C3,D,FCFD 42E,42E Incident 52,Fire-Tac,Fire,4
+1221,4C5,D,FCFD 42F,42F Incident 53,Fire-Tac,Fire,4
+1223,4C7,D,FCFD 42H,42H Hazmat 2,Fire-Tac,Fire,4
+1225,4C9,E,FCFD 42I,42I Hazmat 3E,Fire-Tac,Fire,4
+1227,4CB,D,FCFD 43H,43H Incident 66,Fire-Tac,Fire,4
+1229,4CD,D,FCFD 43I,43I Incident 67,Fire-Tac,Fire,4
+1231,4CF,D,FCFD 43J,43J Incident 68,Fire-Tac,Fire,4
+1233,4D1,D,Ffx ADC Ops,Adult Detention Center Ops,Corrections,Sheriff,99
+1235,4D3,E,Ffx ADC Tac1,Adult Detention Center Tac 1,Corrections,Sheriff,99
+1237,4D5,D,Ffx ADC Tac2,Adult Detention Center Tac 2,Corrections,Sheriff,99
+1239,4D7,D,Ffx ADC Log,Adult Detention Center Logistics,Corrections,Sheriff,99
+1241,4D9,D,Ffx ADC Diag,Adult Detention Center Diag,Corrections,Sheriff,99
+1245,4DD,D,Ffx ADC Trns,Adult Detention Center Transportation,Corrections,Sheriff,99
+1247,4DF,D,Ffx PRC Ops,PreRelease Center Ops,Corrections,Sheriff,99
+1248,4E0,D,Ffx PRC PLS,PreRelease Center Project Lifesaver,Corrections,Sheriff,99
+1249,4E1,D,Ffx PRC Tac1,PreRelease Center Tac 1,Corrections,Sheriff,99
+1251,4E3,D,Ffx PRC Tac2,PreRelease Center Tac 2,Corrections,Sheriff,99
+1253,4E5,D,Ffx PRC CLF,PreRelease Center Community Labor Force,Corrections,Sheriff,99
+1257,4E9,D,Ffx Cts Ops,Courts Ops,Law Talk,Sheriff,99
+1259,4EB,D,Ffx Cts Tac1,Courts Tac 1,Law Talk,Sheriff,99
+1261,4ED,D,Ffx Cts JDR,Courts JuvenileDomestic Relations,Law Talk,Sheriff,99
+1263,4EF,D,Ffx Cts Circ,Courts Circuit Court,Law Talk,Sheriff,99
+1265,4F1,D,Ffx Cts SAT,Courts SAT,Law Talk,Sheriff,99
+1267,4F3,D,Ffx Cts Sec,Courts Security,Law Talk,Sheriff,99
+1269,4F5,D,Ffx Cts Tac2,Courts Tac 2,Law Talk,Sheriff,99
+1271,4F7,D,Ffx Cts Civi,Courts Civil,Law Talk,Sheriff,99
+1273,4F9,D,Ffx Cts GenD,Courts General District,Law Talk,Sheriff,99
+1276,4FC,D,Ffx Cts Sys,Courts Systems,Law Talk,Sheriff,99
+1277,4FD,D,FCPD AC,Animal Control,Law Tac,Police,99
+1281,501,D,Ffx MotProjT,Motorola Project Team,Public Works,Services,99
+1283,503,D,Ffx RadioShp,Radio Shop,Public Works,Services,99
+1285,505,D,FCFD 47K,47K Fairfax City Admin,Fire-Tac,Fire,2
+1287,507,D,FCFD 47L,47L Fairfax City Prevention,Fire-Tac,Fire,2
+1288,508,D,FCFD 47I,47I Fairfax City Ops,Fire-Tac,Fire,2
+1291,50B,E,FCFD 1291Enc,Encrypted,Fire-Tac,Fire,2
+1293,50D,D,FCFD 47C,47C Fairfax City Event,Fire-Tac,Fire,2
+1294,50E,D,FCFD 47J,47J Fairfax City Training,Fire-Tac,Fire,2
+1295,50F,D,FfxCiPD Disp,Police Dispatch,Law Dispatch,Fairfax City,99
+1297,511,D,FfxCiPD Tac1,Police Tac 1,Law Tac,Fairfax City,99
+1299,513,D,FfxCiPD Tac2,Police Tac 2,Law Tac,Fairfax City,99
+1301,515,D,FfxCiPD Tac3,Police Tac 3,Law Tac,Fairfax City,99
+1303,517,E,FfxCiPD Tac4,Police Tac 4,Law Tac,Fairfax City,99
+1305,519,D,Vien PD Disp,Police Dispatch,Law Dispatch,Vienna,99
+1307,51B,D,Vien PD Tac1,Police Tac 1,Law Tac,Vienna,99
+1309,51D,D,Vien PD Tac2,Police Tac 2,Law Tac,Vienna,99
+1311,51F,D,Hern PD Disp,Police Dispatch,Law Dispatch,Herndon,99
+1313,521,D,Hern PD Tac1,Police Tac 1,Law Tac,Herndon,99
+1315,523,D,Hern PD Tac2,Police Tac 2,Law Tac,Herndon,99
+1317,525,D,Hern PD Tac3,Police Tac 3,Law Tac,Herndon,99
+1319,527,D,Hern PD Tac4,Police Tac 4,Law Tac,Herndon,99
+1321,529,D,MWAA PD ,Metropolitan Washington Airports Authority Police,Law Dispatch,Other,4
+1323,52B,D,Ffx MotProjT,Motorola Project Team,Public Works,Services,99
+1325,52D,D,Ffx Coord D1,Coordination 1,Interop,Coordination,99
+1326,52E,D,Ffx Coord D6,Coordination 6,Interop,Coordination,99
+1327,52F,D,Ffx Coord D2,Coordination 2,Interop,Coordination,99
+1328,530,D,Ffx Coord D7,Coordination 7,Interop,Coordination,99
+1329,531,D,Ffx Coord D3,Coordination 3,Interop,Coordination,99
+1330,532,D,Ffx Coord D8,Coordination 8,Interop,Coordination,99
+1331,533,D,Ffx Coord D4,Coordination 4,Interop,Coordination,99
+1333,535,D,Ffx Coord D5,Coordination 5,Interop,Coordination,99
+1335,537,D,FCPS CMDD,CMDD,Security,Schools,99
+1336,538,E,FCPS SecTac2,Security Tac 2,Security,Schools,99
+1337,539,D,FCPS Sec Dsp,Security Dispatch,Security,Schools,99
+1338,53A,D,FCPS Sec Tac,Security Tac,Security,Schools,99
+1351,547,D,FCFD 43K,43K Incident 69,Fire-Tac,Fire,2
+1353,549,D,FCFD 42L,42L Marine 1,Fire-Tac,Fire,2
+1355,54B,D,FCFD 42M,42M Marine 2,Fire-Tac,Fire,2
+1356,54C,E,FCFD 43L,43L E Incident 70,Fire-Tac,Fire,2
+1400,578,D,Ffx FBI 1,FBI 1,Interop,Other,99
+1404,57C,D,FCPD FtB Pch,Mount VernonFranconia Patch to Fort Belvoir,Law Dispatch,Police,99
+1411,583,D,FCFD MrshH1,Charles County  Marshall Hall 1,Interop,Fire,99
+1412,584,D,FCFD MrshH2,Charles County  Marshall Hall 2,Interop,Fire,99
+1419,58B,D,Ffx DCIO 1,DC Interop 1,Interop,Other,2
+1433,599,D,Ffx JuvDMain,Juvenile Detention Main,Corrections,Services,99
+1435,59B,D,Ffx JuvDTac1,Juvenile Detention Tac 1,Corrections,Services,99
+1437,59D,D,Ffx JuvDTac2,Juvenile Detention Tac 2,Corrections,Services,99
+1519,5EF,D,FCFD 4A Disp,4A Dispatch,Fire Dispatch,Fire,1
+1521,5F1,D,FCFD 41C,41C Inter 2,Fire-Tac,Fire,1
+1523,5F3,D,FCFD 41D,41D Incident 30,Fire-Tac,Fire,1
+1525,5F5,D,FCFD 41E,41E Incident 31,Fire-Tac,Fire,1
+1527,5F7,D,FCFD 41F,41F Incident 32,Fire-Tac,Fire,1
+1529,5F9,D,FCFD 41G,41G Incident 33,Fire-Tac,Fire,1
+1535,5FF,E,FCFD 46G,46G Battalion 1E,Fire-Tac,Fire,1
+1536,600,E,FCFD 46H,46H Battalion 2E,Fire-Tac,Fire,1
+1537,601,E,FCFD 46I,46I Battalion 3E,Fire-Tac,Fire,1
+1538,602,E,FCFD 46J,46J Battalion 4E,Fire-Tac,Fire,1
+1539,603,E,FCFD 46K,46K Battalion 5E,Fire-Tac,Fire,1
+1540,604,E,FCFD 46L,46L Battalion 6E,Fire-Tac,Fire,1
+1541,605,E,FCFD 46M,46M Battalion 7E,Fire-Tac,Fire,1
+1552,610,D,NVCC PD,Northern Virginia Community College Police,Law Dispatch,Other,99
+1553,611,D,NVCC PD Alt,Northern Virginia Community College Police Alternate,Law Tac,Other,99
+5377,1501,D,Ffx PSAP MA,Public Safety Answering Point Mutual Aid,Interop,Other,99
+5410,1522,D,FfxArl InOp,FairfaxArlington Interop,Interop,Other,99

@@ -1,0 +1,37 @@
+{
+    "sources": [{
+        "center": 855000000,
+        "rate": 2048000,
+        "error": 0,
+        "gain": 39,
+        "debugRecorders": 0,
+        "digitalRecorders": 4,
+        "modulation": "qpsk",
+        "driver": "osmosdr",
+        "device": "rtl=20"
+    }, {
+        "center": 857000000,
+        "rate": 2048000,
+        "error": 0,
+        "gain": 39,
+        "digitalRecorders": 4,
+        "modulation": "qpsk",
+        "driver": "osmosdr",
+        "device": "rtl=21"
+    }, {
+        "center": 8590000000,
+        "rate": 2048000,
+        "error": 0,
+        "gain": 39,
+        "digitalRecorders": 4,
+        "modulation": "qpsk",
+        "driver": "osmosdr",
+        "device": "rtl=22"
+    }],
+    "systems": [{
+        "control_channels": [856262500, 85726250, 85826250],
+        "type": "p25",
+	"shortName": "fairfax",
+        "talkgroupsFile": "fairfax.csv"
+    }]
+}
