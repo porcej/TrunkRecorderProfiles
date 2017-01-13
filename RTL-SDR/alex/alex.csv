@@ -1,0 +1,59 @@
+﻿1,1,D,APD 1 Disp,1 Dispatch,Law Dispatch,Police,2
+2,2,D,APD 2,2,Law Tac,Police,3
+3,3,D,APD 3,3,Law Tac,Police,3
+4,4,D,APD 4,4,Law Tac,Police,3
+5,5,D,APD 5,5,Law Tac,Police,3
+6,6,E,APD 6,6,Law Tac,Police,3
+7,7,D,APD CIS,Criminal Investigation Section CIS,Law Tac,Police,3
+11,B,E,APD Supervis,Supervisors,Law Tac,Police,10
+13,D,E,APD Jump 1,Jump 1,Law Tac,Police,10
+14,E,D,APD Motors 1,Motors 1,Law Tac,Police,3
+17,11,E,APD SpecOps,Special Ops,Law Tac,Police,10
+18,12,E,APD Vice,Vice,Law Tac,Police,10
+19,13,D,AFD 2A Disp,2A Dispatch,Fire Dispatch,Fire,1
+20,14,D,AFD 2B,2B,Fire-Tac,Fire,1
+21,15,D,AFD 2C,2C,Fire-Tac,Fire,1
+22,16,D,AFD 2D,2D,Fire-Tac,Fire,1
+23,17,D,AFD 2E,2E,Fire-Tac,Fire,1
+24,18,D,AFD 2F,2F,Fire-Tac,Fire,1
+25,19,D,AFD 2G,2G,Fire-Tac,Fire,1
+26,1A,D,AFD 2H,2H,Fire-Tac,Fire,1
+27,1B,D,AFD 2I,2I,Fire-Tac,Fire,1
+28,1C,D,AFD 2J,2J,Fire-Tac,Fire,1
+29,1D,D,AFD 2K,2K,Fire-Tac,Fire,1
+30,1E,D,AFD 2L,2L,Fire-Tac,Fire,1
+31,1F,D,AFD 2M,2M,Fire-Tac,Fire,1
+32,20,D,AFD 2N Hosp,2N Alexandria Hospital,Hospital,Fire,2
+34,22,D,AFD 34,Code Enforcement,Fire-Talk,Fire,3
+41,29,D,AFD 41,Code Enforcement,Fire-Talk,Fire,3
+42,2A,D,Alex Wireles,Wireless,Public Works,Services,3
+43,2B,D,Alex Help,Help,Public Works,Services,5
+44,2C,D,Alex ConInsp,Construction and Inspection,Public Works,Services,5
+45,2D,D,Alex Mainten,Maintenance,Public Works,Services,5
+46,2E,D,Alex DASH,DASH Buses,Transportation,Services,5
+47,2F,D,Alex Signals,Signals,Public Works,Services,5
+49,31,D,Alex Parks,Parks ,Public Works,Services,5
+50,32,D,Alex Waste,Solid Waste,Public Works,Services,5
+58,3A,D,ASO Disp,Dispatch,Law Dispatch,Sheriff,5
+59,3B,D,ASO Jail,Jail,Corrections,Sheriff,5
+60,3C,D,ASO 2,2,Law Tac,Sheriff,5
+61,3D,D,ASO 4,4,Law Tac,Sheriff,5
+62,3E,D,ASO 5,5,Law Tac,Sheriff,5
+63,3F,D,ASO Courts,Courts,Law Tac,Sheriff,5
+64,40,D,ASO 3,3,Law Tac,Sheriff,5
+65,41,D,ASO Transp,Transportation,Law Tac,Sheriff,5
+70,46,D,Alex Sch Bus,Buses,Schools,Schools,5
+71,47,D,Alex Sch Mnt,Maintenance,Schools,Schools,5
+72,48,D,Alex Sch Sec,Security,Security,Schools,5
+73,49,D,TCWillHS KS,TC Williams High School  King Street Campus,Schools,Schools,5
+77,4D,D,AFD RespChck,Response Check,Fire-Tac,Fire,2
+82,52,E,Alex Sch 82,Unknown School,Schools,Schools,10
+83,53,D,GeorgeWashMS,George Washington Middle School,Schools,Schools,5
+84,54,D,TCWillHS MH,TC Williams High School  Minnie Howard Campus,Schools,Schools,5
+85,55,D,Hammond MS,Francis C Hammond Middle School,Schools,Schools,5
+107,6B,D,Alex AC,Animal Control,Public Works,Services,5
+124,7C,D,AFD Trng 124,Training,Fire-Talk,Fire,5
+125,7D,D,AFD Trng 125,Training,Fire-Talk,Fire,4
+126,7E,D,AFD Trng 126,Training,Fire-Talk,Fire,4
+127,7F,D,AFD CodeInsp,Code Inspections,Fire-Tac,Fire,4
+130,82,D,AFD Trng 130,Training,Fire-Talk,Fire,4
