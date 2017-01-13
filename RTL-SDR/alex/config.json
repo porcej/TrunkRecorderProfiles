@@ -29,7 +29,7 @@
         "device": "rtl=22"
     }],
     "systems": [{
-        "control_channels": [856837500, 857837500 859837500,
+        "control_channels": [856837500, 857837500, 859837500],
         "type": "p25",
         "shortName": "alex",
         "talkgroupsFile": "alex.csv"
