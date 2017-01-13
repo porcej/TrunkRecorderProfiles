@@ -8,7 +8,7 @@
         "digitalRecorders": 4,
         "modulation": "qpsk",
         "driver": "osmosdr",
-        "device": "rtl=20"
+        "device": "rtl=27"
     }, {
         "center": 857437500,
         "rate": 2048000,
@@ -17,7 +17,7 @@
         "digitalRecorders": 4,
         "modulation": "qpsk",
         "driver": "osmosdr",
-        "device": "rtl=21"
+        "device": "rtl=29"
     }, {
         "center": 8597000000,
         "rate": 2048000,
@@ -26,7 +26,7 @@
         "digitalRecorders": 4,
         "modulation": "qpsk",
         "driver": "osmosdr",
-        "device": "rtl=22"
+        "device": "rtl=28"
     }],
     "systems": [{            
         "control_channels": [860437500, 859937500, 859762500, 859437500],
