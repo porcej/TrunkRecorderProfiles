@@ -1,0 +1,140 @@
+﻿1,1,D,ACPD 1A Dsp1,1A Dispatch 1,Law Dispatch,Police,2
+2,2,D,ACPD 1B Tac1,1B Tac 1,Law Tac,Police,3
+3,3,D,ACPD 1C Dsp2,1C Dispatch 2,Law Dispatch,Police,2
+4,4,D,ACPD 1D Tac2,1D Tac 2,Law Tac,Police,3
+5,5,D,ACPD 1E Adm,1E Admin,Law Tac,Police,3
+6,6,D,ACPD 1F Pkg,1F Parking,Law Tac,Police,3
+7,7,D,ACPD 1G D1,1G District 1,Law Tac,Police,3
+8,8,D,ACPD 1H D2,1H District 2,Law Tac,Police,3
+9,9,D,ACPD 1I D3,1I District 3,Law Tac,Police,3
+10,A,D,ACPD 1J D4,1J District 4,Law Tac,Police,3
+11,B,D,ACPD 1K SOS,1K Special Operations Section Motors,Law Tac,Police,3
+12,C,D,ACPD 1L Tac,1L Tac,Law Tac,Police,3
+13,D,D,ACPD 1M CID,1M Criminal Investigations Division,Law Tac,Police,3
+14,E,D,ACPD 1N ERU1,1N Emergency Response Unit 1,Law Tac,Police,3
+16,10,E,ACPD TG16,Encrypted,Law Tac,Police,10
+17,11,D,ACPD Detctv,Detectives,Law Tac,Police,3
+18,12,D,ACPD TG18,Police Multiagency training exercise,Law Tac,Police,3
+20,14,D,ACPD TG20,Police special event on June 4 2011,Law Tac,Police,3
+21,15,D,ACPD SchResO,School Resource Officers,Law Tac,Police,5
+26,1A,D,ACPD DC IO1,DC Interop 1,Interop,Police,1
+27,1B,D,ACFD 1A Disp,1A Dispatch,Fire Dispatch,Fire,1
+28,1C,D,ACFD 1B Resp,1B Response,Fire-Tac,Fire,1
+29,1D,D,ACFD 1C Inc1,1C Incident 1,Fire-Tac,Fire,1
+30,1E,D,ACFD 1D T 1B,1D Tac 1B,Fire-Tac,Fire,1
+31,1F,D,ACFD 1E T 1C,1E Tac 1C,Fire-Tac,Fire,1
+32,20,D,ACFD 1F Cmd1,1F Command 1,Fire-Tac,Fire,1
+33,21,D,ACFD 1G Inc2,1G Incident 2,Fire-Tac,Fire,1
+34,22,D,ACFD 1H T 2B,1H Tac 2B,Fire-Tac,Fire,1
+35,23,D,ACFD 1I T 2C,1I Tac 2C,Fire-Tac,Fire,1
+36,24,D,ACFD 1J Cmd2,1J Command 2,Fire-Tac,Fire,1
+37,25,D,ACFD 1K Inc3,1K Incident 3,Fire-Tac,Fire,1
+38,26,D,ACFD 1L T 3B,1L Tac 3B,Fire-Tac,Fire,1
+39,27,D,ACFD 1M Cmd3,1M Command 3,Fire-Tac,Fire,1
+40,28,D,ACFD A1C Wat,A1C Logistics  Water,Fire-Tac,Fire,3
+41,29,D,ACFD A1D Ops,A1D Logistics  Operations,Fire-Tac,Fire,3
+42,2A,D,ACFD A1E Cmd,A1E Logistics  Command,Fire-Tac,Fire,3
+43,2B,D,ACFD A1F Evt,A1F Special Events,Fire-Talk,Fire,3
+44,2C,D,ACFD A1G Evt,A1G Specials Events  Command,Fire-Talk,Fire,3
+45,2D,D,ACFD A1H MRT,A1H National Medical Response Team  A,Federal,Fire,3
+46,2E,D,ACFD A1I MRT,A1I National Medical Response Team  B,Federal,Fire,3
+47,2F,D,ACFD A1J MRT,A1J National Medical Response Team  Command,Federal,Fire,3
+48,30,D,ACFD A1K Prv,A1K Fire Prevention,Fire-Talk,Fire,4
+49,31,D,ACFD A1L Tst,A1L System Testing,Fire-Talk,Fire,4
+50,32,E,ACFD A1M EOD,A1M Explosive Ordnance Disposal  Tac,Fire-Tac,Fire,10
+51,33,E,ACFD A1N EOD,A1N Explosive Ordnance Disposal  Command,Fire-Tac,Fire,10
+53,35,D,Va Hosp Cntr,Virginia Hospital Center,Hospital,HospitalsHealth,5
+54,36,D,NVaComm Hosp,Northern Virginia Community Hospital,Hospital,HospitalsHealth,5
+55,37,D,Medstar Arl,Medstar Arlington,Hospital,HospitalsHealth,5
+57,39,D,ACPD SWAT 1,SWAT 1,Law Tac,Police,2
+58,3A,D,ACPD SWAT 2,SWAT 2,Law Tac,Police,2
+62,3E,D,ACSO Field,Field A,Law Talk,Sheriff,5
+63,3F,D,ACSO B Court,B Court,Law Talk,Sheriff,5
+64,40,D,ACSO C Court,C Court,Law Talk,Sheriff,5
+65,41,D,ACSO Transp,Transport,Law Talk,Sheriff,5
+66,42,D,ACSO DetFac,Detention Facility primary,Corrections,Sheriff,5
+69,45,D,ACSO DetFac,Detention Facility,Corrections,Sheriff,5
+70,46,E,ACPD 70 Enc,Encrypted,Law Tac,Police,10
+71,47,E,ACPD 71 Enc,Encrypted,Law Tac,Police,10
+76,4C,D,Arl CP RM1,Courthouse Plaza Risk Management 1,Public Works,Local Government,5
+77,4D,D,Arl CP RM2,Courthouse Plaza Risk Management 2,Public Works,Local Government,5
+79,4F,D,Arl EnvSrv79,Environmental Services,Public Works,Local Government,5
+80,50,D,Arl PubWorks,Public Works,Public Works,Local Government,5
+81,51,D,Arl EnvSrv81,Environmental Services,Public Works,Local Government,5
+82,52,D,Arl Waste,Solid Waste,Public Works,Local Government,5
+85,55,D,Arl Transp,TransportationMotor Pool,Public Works,Local Government,5
+87,57,D,Arl Bldg Mnt,Building Maintenance,Public Works,Local Government,5
+88,58,D,Arl Sewage 1,Sewage Treatment Plant 1,Public Works,Local Government,5
+89,59,D,Arl Sewage 2,Sewage Treatment Plant 2,Public Works,Local Government,5
+93,5D,D,Arl InspSv93,Inspection Services Division,Public Works,Local Government,5
+94,5E,D,Arl InspSv94,Inspection Services Division,Public Works,Local Government,5
+96,60,D,Arl AlarmTst,Alarm Testing,Public Works,Local Government,5
+98,62,D,Arl Mailroom,Mailroom,Public Works,Local Government,5
+99,63,D,Arl Parks 1,Parks 1,Public Works,Local Government,5
+100,64,D,Arl Parks 2,Parks 2,Public Works,Local Government,5
+101,65,D,Arl Park Mnt,Parks Maintenance,Public Works,Local Government,5
+102,66,D,Arl PkRng102,Park Rangers,Public Works,Local Government,5
+103,67,D,Arl PkRng103,Park Rangers,Public Works,Local Government,5
+105,69,D,ArlPrkSpE105,Parks Special Events 2009 Fair,Public Works,Local Government,5
+107,6B,D,Arl PkRng107,Park Rangers,Public Works,Local Government,5
+108,6C,D,Arl Prk Snow,Parks  Snow Desk,Public Works,Local Government,5
+109,6D,D,ArlPrk 109,Parks,Public Works,Local Government,5
+110,6E,D,ArlPrk 110,Parks Recreation Center,Public Works,Local Government,5
+117,75,D,Arl EM 1,Emergency Management 1,Emergency Ops,Emergency Management,3
+118,76,D,Arl EM 2,Emergency Management 2,Emergency Ops,Emergency Management,3
+119,77,D,Arl EM 3,Emergency Management 3,Emergency Ops,Emergency Management,3
+120,78,D,Arl EM 4,Emergency Management 4,Emergency Ops,Emergency Management,3
+121,79,D,Arl EM 5,Emergency Management 5,Emergency Ops,Emergency Management,3
+122,7A,D,Arl EM 6,Emergency Management 6,Emergency Ops,Emergency Management,3
+123,7B,D,Arl EM 7,Emergency Management 7,Emergency Ops,Emergency Management,3
+124,7C,D,Arl EM 8,Emergency Management 8,Emergency Ops,Emergency Management,3
+126,7E,D,ArlSchAlmTst,Fire Alarm Testing,Schools,Schools,5
+133,85,D,ArlSchFacOps,Facilities and Operations,Schools,Schools,5
+134,86,D,ArlSchRadTst,School Radio Testing,Public Works,Radio Shop,5
+135,87,D,Arl Coord 1,Coordination 1,Interop,Coordination,5
+136,88,D,Arl Coord 2,Coordination 2,Interop,Coordination,5
+137,89,D,Arl Coord 3,Coordination 3,Interop,Coordination,5
+138,8A,D,Arl Coord 4,Coordination 4,Interop,Coordination,5
+139,8B,D,Arl Coord 5,Coordination 5,Interop,Coordination,5
+140,8C,D,Arl Coord 6,Coordination 6,Interop,Coordination,5
+141,8D,D,Arl Coord 7,Coordination 7,Interop,Coordination,5
+142,8E,D,Arl Coord 8,Coordination 8,Interop,Coordination,5
+143,8F,D,WakefldHS143,Wakefield High School primary,Schools,Schools,5
+144,90,D,WakefldHS144,Wakefield High School,Schools,Schools,5
+145,91,D,WakefldHS145,Wakefield High School,Schools,Schools,5
+146,92,D,WakefldHS146,Wakefield High School,Schools,Schools,5
+147,93,D,YorktwnHS147,Yorktown High School primary,Schools,Schools,5
+148,94,D,YorktwnHS148,Yorktown High School,Schools,Schools,5
+149,95,D,ArlRadioShop,Radio Shop,Public Works,Radio Shop,5
+153,99,D,DiscES 153,Discovery Elementary School,Schools,Schools,5
+154,9A,D,Arl ECC Ops,Ops,Emergency Ops,Emergency Communications Center,3
+155,9B,D,Arl ECC Adm,Admin,Emergency Ops,Emergency Communications Center,3
+156,9C,D,Arl ECC Trng,Training,Emergency Ops,Emergency Communications Center,5
+157,9D,D,ArlRadShMot1,Motorola 1,Public Works,Radio Shop,5
+158,9E,D,ArlRadShMot2,Motorola 2,Public Works,Radio Shop,5
+160,A0,D,Arl ECC TrEx,Training Exercise,Emergency Ops,Emergency Communications Center,5
+165,A5,D,ArlRadioTest,Radio Testing,Public Works,Radio Shop,5
+169,A9,D,FllsChchPD 1,1 Police Dispatch,Law Dispatch,City of Falls Church,2
+170,AA,D,FllsChchPD 2,2 Police,Law Tac,City of Falls Church,3
+171,AB,E,FllsChchPD 3,3 Police,Law Tac,City of Falls Church,10
+172,AC,D,FllsChchPD 4,4 SheriffCourt Security,Law Tac,City of Falls Church,5
+177,B1,D,DiscES 177,Discovery Elementary School primary,Schools,Schools,5
+183,B7,D,MyerHendH FD,Joint Base Myer Henderson Hall Fire,Fire Dispatch,Fire,5
+186,BA,D,Arl PubHlth1,Public Health 1,Hospital,HospitalsHealth,5
+190,BE,D,ANG Cntr Sec,Army National Guard Readiness Center  Security,Security,Other,5
+192,C0,D,Arl PubHlth2,Public Health 2,Hospital,HospitalsHealth,5
+195,C3,D,MWAA PD Tac1,MWAA PD Tac 1 Reagan Dispatch Backup ARBU1,Law Dispatch,Other,2
+199,C7,D,ArlSchBusAdm,Buses  Admin,Schools,Schools,5
+200,C8,D,ArlSchBus200,Buses  North,Schools,Schools,5
+201,C9,D,ArlSchBus201,Buses,Schools,Schools,5
+202,CA,D,ArlSchBus202,Buses  Yorktown Channel,Schools,Schools,5
+203,CB,D,ArlSchBus203,Buses,Schools,Schools,5
+214,D6,D,Arl FBO1 ISD,FBO1 Inspection Services Division Fire,Public Works,Local Government,5
+218,DA,D,ACFD Trng,Training,Fire-Talk,Fire,5
+219,DB,D,ACFD B1H,B1H Training Exercise Command Hose Training,Fire-Tac,Fire,5
+222,DE,D,ACFD B1K,B1K Training 2,Fire-Tac,Fire,5
+227,E3,D,ArlMetRadTst,Radio A  Metrorail Radio Reception Testing,Public Works,Radio Shop,5
+231,E7,D,ACFD 41J,Fairfax County Fire 41J Patch,Fire-Tac,Patches,3
+232,E8,D,ACFD FfxPatc,Fairfax County Fire Patch,Fire-Tac,Patches,3
+233,E9,D,ACPDMPD 233,Metropolitan Police Patch,Interop,Patches,1
+234,EA,D,ACPDMPD 234,Metropolitan Police Patch,Interop,Patches,1
